@@ -1,0 +1,36 @@
+Telerik.Sitefinity.Compiler.exe Error: 0 : System.ApplicationException: Server did not respond with a proper response when querying the keys for url http://localhost:1003/restapi/markup/keys/Frontend. Actual status code is InternalServerError
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.HandleUnknownResponse(HttpResponseMessage response)
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.GetKeys(String url)
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.Execute(Action`1 onResponse)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.GetPageMarkupData(String url, String strategy)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.GetData(String outputPath, String pageAssemblyPrefix, String templateAssemblyPrefix)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.Execute()
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.Main(String[] args)
+    DateTime=2016-05-12T14:17:17.5870771Z
+Telerik.Sitefinity.Compiler.exe Error: 0 : System.ApplicationException: Server did not respond with a proper response when querying the keys for url http://localhost:1003/restapi/markup/keys/Frontend. Actual status code is InternalServerError
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.HandleUnknownResponse(HttpResponseMessage response)
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.GetKeys(String url)
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.Execute(Action`1 onResponse)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.GetPageMarkupData(String url, String strategy)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.GetData(String outputPath, String pageAssemblyPrefix, String templateAssemblyPrefix)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.Execute()
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.Main(String[] args)
+    DateTime=2016-05-12T14:21:01.6913432Z
+Telerik.Sitefinity.Compiler.exe Error: 0 : System.ApplicationException: Server did not respond with a proper response when querying the keys for url http://localhost:1003/restapi/markup/keys/Frontend. Actual status code is InternalServerError
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.HandleUnknownResponse(HttpResponseMessage response)
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.GetKeys(String url)
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.Execute(Action`1 onResponse)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.GetPageMarkupData(String url, String strategy)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.GetData(String outputPath, String pageAssemblyPrefix, String templateAssemblyPrefix)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.Execute()
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.Main(String[] args)
+    DateTime=2016-05-12T14:22:52.5678784Z
+Telerik.Sitefinity.Compiler.exe Error: 0 : System.ApplicationException: Server did not respond with a proper response when querying the keys for url http://localhost:1003/restapi/markup/keys/Frontend. Actual status code is InternalServerError
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.HandleUnknownResponse(HttpResponseMessage response)
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.GetKeys(String url)
+   at Telerik.Sitefinity.Web.Compilation.MarkupQuery`1.Execute(Action`1 onResponse)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.GetPageMarkupData(String url, String strategy)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.GetData(String outputPath, String pageAssemblyPrefix, String templateAssemblyPrefix)
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.Execute()
+   at Telerik.Sitefinity.Web.Compilation.Commands.CompilerCommand.Main(String[] args)
+    DateTime=2016-05-12T14:23:57.8805857Z
